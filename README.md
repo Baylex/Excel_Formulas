@@ -9,10 +9,10 @@ My revised version that works more efficiently for my data sets!
 2. =INDEX(B:B,MATCH(C2,A:A,0))   
 
 After working for a long time, I finally needed an index match formula that required meeting 2 search criteria.  The 5, represents the data column that will populate from the array.   
-3. =INDEX(code!A:G,MATCH(1,(B82=code!A:A)*(P82=code!G:G),0),5)   
+3.    =INDEX(code!A:G,MATCH(1,(B82=code!A:A)*(P82=code!G:G),0),5)   
 
 
-Key Sources: 
+Key Sources:    
 https://spreadsheeto.com/index-match/     
 https://www.contextures.com/excellookupmultiplecriteriaindexmatch.html#matchmulti    
 https://stackoverflow.com/questions/26373325/if-two-cells-match-return-value-from-third/26373415     
