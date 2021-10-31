@@ -23,3 +23,7 @@ https://stackoverflow.com/questions/26373325/if-two-cells-match-return-value-fro
 =IF(ISNUMBER(MATCH(A2,Courses!B:B,0)),"Yes","No")     
 
 Put the lookup cell in the first blank spot and the lookup array in the second blank spot to compare a list quickly.
+
+------------------   
+Data Scientist Roadmap
+https://github.com/MrMimic/data-scientist-roadmap
