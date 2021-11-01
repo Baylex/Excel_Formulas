@@ -27,3 +27,5 @@ Put the lookup cell in the first blank spot and the lookup array in the second b
 ------------------   
 Data Scientist Roadmap
 https://github.com/MrMimic/data-scientist-roadmap
+https://github.com/visenger/awesome-mlops
+https://www.linkedin.com/pulse/free-data-science-books-20-steve-nouri/
