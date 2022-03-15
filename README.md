@@ -24,6 +24,9 @@ https://stackoverflow.com/questions/26373325/if-two-cells-match-return-value-fro
 
 Put the lookup cell in the first blank spot and the lookup array in the second blank spot to compare a list quickly.
 
+## Alternating banded rows based on one matching input
+https://www.redargyle.com/blog/alternate-row-color-based-value-change-google-sheets/
+
 ------------------   
 Data Scientist Roadmap
 https://github.com/MrMimic/data-scientist-roadmap
